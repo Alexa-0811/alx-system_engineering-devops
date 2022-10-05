@@ -1,1 +1,1 @@
-This is my 0x00-shell_basics task
+A script that prints the absolute path name of the current working directory
